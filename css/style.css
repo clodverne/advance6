@@ -1,0 +1,30 @@
+
+
+.text-center {
+	text-align: center;
+}
+.head-text {
+  font-size: 24pt;
+  font-family: "Arvo";
+  color: #3b3f6a;
+}
+.main-text {
+  font-size: 22pt;
+  font-family: "Arvo";
+  color: #3b3f6a;
+}
+.definition-text {
+  font-size: 20px;
+  font-family: "Noto Sans";
+  color: #686c8a;
+}
+.cell {
+   padding-top: 70px;
+   height: 210px;
+   vertical-align: top;
+}
+  .block {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
