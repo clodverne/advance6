@@ -1,16 +1,24 @@
 
-
+@font-face {
+			font-family: "ArvoRegular";
+			src: url("../fonts/ArvoRegular/ArvoRegular.eot");
+			src: url("../fonts/ArvoRegular/ArvoRegular.eot?#iefix")format("embedded-opentype"),
+			url("../fonts/ArvoRegular/ArvoRegular.woff") format("woff"),
+			url("../fonts/ArvoRegular/ArvoRegular.ttf") format("truetype");
+			font-style: normal;
+			font-weight: normal;
+	}	
 .text-center {
 	text-align: center;
 }
 .head-text {
-  font-size: 24pt;
-  font-family: "Arvo";
+  font-size: 30px;
+  font-family: "ArvoRegular";
   color: #3b3f6a;
 }
 .main-text {
-  font-size: 22pt;
-  font-family: "Arvo";
+  font-size: 22px;
+  font-family: "ArvoRegular";
   color: #3b3f6a;
 }
 .definition-text {
